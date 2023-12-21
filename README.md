@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="left">Hi 👋!<br>it's me Vijith and I'm a MEARN Stack Developer from Kerala India</h3>
+<h3 align="left">it's me Vijith and I'm a MEARN Stack Developer from Kerala India</h3>
 
 
 - 💻 I’m a Self taught MEARN full stack web developer
